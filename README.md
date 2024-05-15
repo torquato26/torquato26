@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**torquato26/torquato26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome e Laiany
+ 
+ - Estou estudando na [Alura](https://www.alura.com.br)
+ - Estou me desenvolvendo na linguaguem JavaScript
+ - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ### voce entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001101012699sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/G2yZJgS0RjIAAAAC/shame-blushing-girl.gif)
+ 
